@@ -93,3 +93,7 @@ Customers come in two flavours:
 -   If a company or person is removed from the system, the attached accounts must be removed as well 
 
 The entire design can be viewed pictorially through the UML design below for more clarity
+
+<p align="center">
+  <img src="/assets/BankDesignUML.png" />
+</p>
